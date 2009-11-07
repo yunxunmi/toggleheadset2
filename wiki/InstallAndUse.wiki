@@ -6,7 +6,8 @@ This page describes how to install/use this widget.  This widget is meant to spe
 
 
 = Installing =
-
+ * Make sure your settings allow install of non-market applications
+  * Menu->Settings->Applications->Unknown sources = check.
  * Download the .apk file to your phone and install by selecting the file in a file browser application.
  * Press the "Menu" button
  * Select "Add"
