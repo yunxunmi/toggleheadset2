@@ -1,0 +1,21 @@
+#summary One-sentence summary of this page.
+
+= Introduction =
+
+This page describes how to install/use this widget
+
+
+= Installing =
+
+ * Download the .apk file to your phone and install by selecting the file in a file browser application.
+ * Press the "Menu" button
+ * Select "Add"
+ * Select "Widgets"
+ * Select "Toggle Headset 2"
+ * Place somewhere on your home screen.
+
+= Using =
+
+ * As long as the service is running the 3.5 mm jack should automatically be selected as output when plugged in on an HTC 3 in 1 adapter.  
+ * If not, or if you'd like to switch back to speaker phone, click on the widget icon on the home screen.  
+ * The icon status should show whether headphone or speaker routing is currently enabled (if you see sound marks on the headphone speakers that means headphone routing is currently on.)
