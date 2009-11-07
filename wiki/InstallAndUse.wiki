@@ -17,7 +17,7 @@ This page describes how to install/use this widget.  This widget is meant to spe
 
 = Using =
 
- * As long as the service is running (hasn't been stopped due to low resources) the 3.5 mm jack should automatically be selected as output when plugged in on an HTC 3 in 1 adapter.  When you disconnect the htc adapter the audio output should automatically switch back to speakerphone.
+ * As long as the service is running (hasn't been stopped due to low resources) the 3.5 mm jack should automatically be selected as output when plugged in on an HTC 5 in 1 adapter.  When you disconnect the htc adapter the audio output should automatically switch back to speakerphone.
 
  * If you'd like to switch between speaker phone or headset routing manually, click on the widget icon on the home screen.  Audio output should toggle on each click.
 
