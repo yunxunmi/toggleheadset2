@@ -2,7 +2,7 @@
 
 = Introduction =
 
-This page describes how to install/use this widget.  This widget is meant to specifically address the problems with audio adapters, the G1 and the donut release.  It hopefully won't be necessary and probably won't work after the next release.
+This page describes how to install/use this widget.  This widget is meant to specifically address the problems with audio adapters (specifically the HTC 5 in 1 adapter,) the G1 and the donut release.  It hopefully won't be necessary and probably won't work after the next release.
 
 
 = Installing =
