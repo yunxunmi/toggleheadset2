@@ -1,0 +1,13 @@
+#summary One-sentence summary of this page.
+
+= Introduction =
+This page lists all phone/adapters which have been tested with this application.  If you've used a working configuration, please add in the comments.
+
+Unfortunately as you can see the list is short - please help make it longer!
+
+I doubt this widget will work with any releases other than donut (since it uses deprecated API's) however if someone knows differently please let me know!
+
+= Tested Configurations =
+
+|| *Phone* || *Adapter* || *Tested By* ||
+|| HTC G1 (TMobile) || [http://www.daydeal.com/product.php?productid=29955 HTC 5 in 1 Adapter] || Dan ||
