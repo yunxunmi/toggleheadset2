@@ -7,10 +7,12 @@ Unfortunately as you can see the list is short - please help make it longer!
 
 I doubt this widget will work with any releases other than donut (since it uses deprecated API's) however if someone knows differently please let me know!
 
+
 = Tested Configurations =
 
 || *Phone* || *Adapter* || *Tested By* ||
 || HTC G1 (TMobile) || [http://www.daydeal.com/product.php?productid=29955 HTC 5 in 1 Adapter] || Dan ||
+
 
 = My Device Isn't On the List - What do I do? =
 Test it with the 1.3 release, available on the Downloads tab.  
