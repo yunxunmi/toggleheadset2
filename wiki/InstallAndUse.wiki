@@ -4,6 +4,8 @@
 
 This page describes how to install/use this widget.  This widget is meant to specifically address the problems with the 3.5mm audio jack on audio adapters (specifically the HTC 5 in 1 adapter,) the G1 and the donut release.  It hopefully won't be necessary and probably won't work after the next release.
 
+== Tested Configurations ==
+For a full list of tested configurations, please see [http://code.google.com/p/toggleheadset2/wiki/TestedConfigurations Tested Configurations]
 
 = Installing =
  * Make sure your settings allow install of non-market applications
