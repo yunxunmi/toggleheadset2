@@ -17,8 +17,7 @@ For a full list of tested configurations, please see [http://code.google.com/p/t
  * Download and install like a regular application through the market.
 
 = Installing the Widget =
-
- * Press the "Menu" button
+ * From the home screen, press the "Menu" button
  * Select "Add"
  * Select "Widgets"
  * Select "Toggle Headset 2"
