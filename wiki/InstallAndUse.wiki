@@ -7,10 +7,17 @@ This page describes how to install/use this widget.  This widget is meant to spe
 == Tested Configurations ==
 For a full list of tested configurations, please see [http://code.google.com/p/toggleheadset2/wiki/TestedConfigurations Tested Configurations]
 
-= Installing =
+= Downloading =
+== Downloading From The Project Page (old version)==
  * Make sure your settings allow install of non-market applications
   * Menu->Settings->Applications->Unknown sources = check.
  * Download the .apk file to your phone and install by selecting the file in a file browser application.
+
+== Downloading from the market ==
+ * Download and install like a regular application through the market.
+
+= Installing the Widget =
+
  * Press the "Menu" button
  * Select "Add"
  * Select "Widgets"
