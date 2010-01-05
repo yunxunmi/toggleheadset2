@@ -17,6 +17,8 @@ For a full list of tested configurations, please see [http://code.google.com/p/t
  * Download and install like a regular application through the market.
 
 = Installing the Widget =
+This application only runs as a widget, there is no user application or menu available.  You must complete this step to install the application as a widget somewhere on your home screen.
+
  * From the home screen, press the "Menu" button
  * Select "Add"
  * Select "Widgets"
