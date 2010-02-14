@@ -14,6 +14,8 @@ I would expect it to work with most phones/adapters running the 1.6 (donut) rele
 || *Phone* || *Adapter* || *Tested By* ||
 || HTC G1 (TMobile) || [http://www.daydeal.com/product.php?productid=29955 HTC 5 in 1 Adapter] || Dan ||
 || Android Dev Phone 1 || [http://www.daydeal.com/product.php?productid=29955 HTC 5 in 1 Adapter] || David ||
+|| Mytouch 3G || HTC 3 in 1 Adapter || Gordon ||
+
 
 = My Device Isn't On the List - What do I do? =
 Test it with the 1.3 release, available on the Downloads tab.  
