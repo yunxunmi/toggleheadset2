@@ -11,7 +11,7 @@ For a full list of tested configurations, please see [http://code.google.com/p/t
 == Downloading From The Project Page (old version)==
  * Make sure your settings allow install of non-market applications
   * Menu->Settings->Applications->Unknown sources = check.
- * Download the .apk file to your phone and install by selecting the file in a file browser application.
+ * Download the .apk file to your phone and install by selecting the file in a file browser application OR use your phone's browser to click on the download link on the project homepage.
 
 == Downloading from the market ==
  * Download and install like a regular application through the market.
