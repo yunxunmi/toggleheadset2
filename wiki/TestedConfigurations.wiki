@@ -5,7 +5,7 @@ This page lists all phone/adapters which have been tested with this application.
 
 Unfortunately as you can see the list is short - please help make it longer!
 
-I doubt this widget will work with any releases other than donut (since it uses deprecated API's) however if someone knows differently please let me know!
+I doubt this widget will work with any releases other than donut (since it uses deprecated API's.)  Update - it is known to not work with 2.0.  See [http://code.google.com/p/toggleheadset2/issues/detail?id=7&can=1 Issue 7]
 
 I would expect it to work with most phones/adapters running the 1.6 (donut) release.
 
