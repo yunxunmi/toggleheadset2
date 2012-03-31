@@ -23,6 +23,7 @@ This application only runs as a widget, there is no user application or menu ava
  * Select "Add"
  * Select "Widgets"
  * Select "Toggle Headset 2"
+ * If you'd like to force routing to speaker on startup, click the check box displayed when placing the icon and press the OK button.  This will override the headset detect switch and always force audio to the speaker at startup.  If you don't want to use this behavior, leave the box un-checked.
  * Place somewhere on your home screen.
 
 = Using =
@@ -31,4 +32,4 @@ This application only runs as a widget, there is no user application or menu ava
 
  * If you'd like to switch between speaker phone or headset routing manually, click on the widget icon on the home screen.  Audio output should toggle on each click.
 
- * The icon status should show whether headphone or speaker routing is currently enabled (if you see sound marks on the headphone speakers that means headphone routing is currently on.)
+ * The icon status should show whether headphone or speaker routing is currently enabled
