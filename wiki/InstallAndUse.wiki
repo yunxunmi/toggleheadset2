@@ -8,13 +8,13 @@ This page describes how to install/use this widget.  This widget is meant to spe
 For a full list of tested configurations, please see [http://code.google.com/p/toggleheadset2/wiki/TestedConfigurations Tested Configurations]
 
 = Downloading =
-== Downloading From The Project Page (old version)==
+== Downloading From The Project Page (old version)... not recommended ==
  * Make sure your settings allow install of non-market applications
   * Menu->Settings->Applications->Unknown sources = check.
  * Download the .apk file to your phone and install by selecting the file in a file browser application OR use your phone's browser to click on the download link on the project homepage.
 
 == Downloading from the market ==
- * Download and install like a regular application through the market.
+ * Download and install like a regular application through the market.  You can find it at [https://play.google.com/store/apps/details?id=com.dwalkes.android.toggleheadset2&hl=en this link]
 
 = Installing the Widget =
 
