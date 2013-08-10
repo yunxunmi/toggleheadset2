@@ -13,8 +13,8 @@ For a full list of tested configurations, please see [http://code.google.com/p/t
   * Menu->Settings->Applications->Unknown sources = check.
  * Download the .apk file to your phone and install by selecting the file in a file browser application OR use your phone's browser to click on the download link on the project homepage.
 
-== Downloading from the market ==
- * Download and install like a regular application through the market.  You can find it at [https://play.google.com/store/apps/details?id=com.dwalkes.android.toggleheadset2&hl=en this link]
+== Downloading from the Play Store ==
+ * Download and install like a regular application through the Google Play store.  You can find it at [https://play.google.com/store/apps/details?id=com.dwalkes.android.toggleheadset2&hl=en this link]
 
 = Installing the Widget =
 
