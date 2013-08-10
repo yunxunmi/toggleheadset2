@@ -17,7 +17,13 @@ For a full list of tested configurations, please see [http://code.google.com/p/t
  * Download and install like a regular application through the market.
 
 = Installing the Widget =
+
 This application only runs as a widget, there is no user application or menu available.  You must complete this step to install the application as a widget somewhere on your home screen.
+
+== Andriod 3 and later ==
+After clicking the "All Apps" button to list all applications, You should see a "Widgets" tab at the top left of the screen.  Click "Widgets" and find toggleheadset2.  Hold and drag to place on your homescreen.
+
+== Android 2 and earlier ==
 
  * From the home screen, press the "Menu" button
  * Select "Add"
